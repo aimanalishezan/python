@@ -8,4 +8,4 @@ while(1):
     except(ValueError,ZeroDivisionError):
         print("you have entered incorrect input...")
     finally:
-        print("thanks!!!!!!!!!!")
+        print("enter an valid input")

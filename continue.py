@@ -4,5 +4,5 @@ while b<=100:
     b=b+1
     if b==69:
         print("bye")
+        #break
         continue
-    

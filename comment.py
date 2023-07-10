@@ -2,8 +2,8 @@
 print("aiman ali shezan")
 '''
 for multiple
-line comment 
-use single cottaion 
+line comment
+use single cottaion
 three times
 
 '''

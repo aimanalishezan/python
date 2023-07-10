@@ -10,7 +10,7 @@ else:
     print("large number is:",num3)
 
 #use of or oparator 
-ch = 'm'
+ch = input("enter a single latter:")
 if ch == 'a'or ch=='e'or ch=='i'or ch=='o'or ch=='u':
     print("vowel")
 else:
